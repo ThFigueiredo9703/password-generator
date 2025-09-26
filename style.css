@@ -89,6 +89,7 @@ input[type="checkbox"] {
 }
 
 .final-password {
+  transition: all 0.3s ease;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -100,6 +101,10 @@ input[type="checkbox"] {
   color: #666;
   font-weight: 500;
   margin: 0;
+}
+
+#copied-text {
+  transition: color 0.3s ease;
 }
 
 #copy-password {
@@ -146,6 +151,23 @@ input[type="checkbox"] {
 
 #generate-password-btn:active {
   transform: translateY(0);
+}
+
+#length-error {
+  color: red;
+  font-weight: bold;
+  display: none;
+  margin-top: 5px;
+}
+
+input:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 
 @media (max-width: 600px) {
