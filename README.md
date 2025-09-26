@@ -94,4 +94,4 @@ O projeto pode ser facilmente personalizado modificando:
 
 ---
 
-**Desenvolvido com 💻 por [Seu Nome]** - Um projeto simples mas poderoso para geração segura de senhas!
+**Desenvolvido com Thiago Figueiredo**
