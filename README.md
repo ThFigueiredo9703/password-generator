@@ -6,7 +6,7 @@ Password Generator é uma aplicação web simples e eficiente para gerar senhas 
 
 ## ✨ Funcionalidades
 
-- 🔢 **Comprimento personalizável**: Senhas de 1 a 18 caracteres
+- 🔢 **Comprimento personalizável**: Senhas de 1 a 24 caracteres
 - 🎯 **Critérios personalizáveis**:
   - Letras maiúsculas (A-Z)
   - Letras minúsculas (a-z)
@@ -18,7 +18,7 @@ Password Generator é uma aplicação web simples e eficiente para gerar senhas 
 
 ## 🚀 Como Usar
 
-1. **Defina o comprimento da senha**: Digite o número desejado (máximo 18 caracteres)
+1. **Defina o comprimento da senha**: Digite o número desejado (máximo 24 caracteres)
 2. **Selecione os critérios**: Marque as caixas conforme suas necessidades
 3. **Gere a senha**: Clique em "Generate Random Password"
 4. **Copie a senha**: Use o ícone de cópia ao lado da senha gerada

@@ -10,7 +10,7 @@ function validateLength() {
   ];
 
   const length = parseInt(lengthInput.value);
-  const MAX_LENGTH = 18;
+  const MAX_LENGTH = 24;
 
   if (length > MAX_LENGTH) {
     alert(`Erro: O comprimento máximo é ${MAX_LENGTH} caracteres`);
