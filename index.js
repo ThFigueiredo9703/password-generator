@@ -105,7 +105,7 @@ function copyToClipboard() {
   }
   navigator.clipboard.writeText(passwordText);
   icon.classList.replace("fa-copy", "fa-check");
-  copiedText.textContent = "Copied!";
+  copiedText.textContent = "Copied succesfuly!";
 
   setTimeout(() => {
     icon.classList.replace("fa-check", "fa-copy");
